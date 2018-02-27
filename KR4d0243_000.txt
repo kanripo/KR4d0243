@@ -7,6 +7,7 @@
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB04n0272-000攻媿集-原序.
 <pb:KR4d0243_SBCK_000-1a>¶
+# image missing
 攻媿集原序¶
 鄮山參政樓公攻媿先生文集一百二十卷建岁眞徳¶
 秀伏讀而嘆曰嗚呼此可以觀公立朝事君之大節矣¶
